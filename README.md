@@ -4,12 +4,14 @@ LastUpdated: *2021/08/12*
 
 ## 使用言語など
 
-|lang|term|主な用途|経験のあるFWなど|
+|lang(FWなど)|term|主な用途|
 |---|---|---|---|
-|php|累計8年程度|WEBサイト、WEBアプリ開発|WordPress|
-|javascript|累計8年程度|WEBサイト、WEBアプリ開発|jQuery|
-|Node.js|累計5年程度|デスクトップアプリ開発|Electron|
-|c#|累計2年程度|Windowsアプリ開発||
-|python|趣味程度|スクレイピング||
-|ruby|趣味程度|webアプリ開発|rails|
-|html/css|累計8年程度|WEBサイト、WEBアプリ開発||
+|php|累計8年程度|WEBサイト、WEBアプリ開発|
+|php(WordPress)|累計8年程度|WEBシステム開発|
+|javascript|累計8年程度|WEBサイト、WEBアプリ開発|
+|javascript(jQuery)|累計8年程度|WEBサイト、WEBアプリ開発|
+|javascript(Node.js-Electron)|累計5年程度|デスクトップアプリ開発|
+|c#|累計2年程度|Windowsアプリ開発|
+|python|趣味程度|スクレイピング|
+|ruby(rails)|趣味程度|webアプリ開発|
+|html/css|累計8年程度|WEBサイト、WEBアプリ開発|
