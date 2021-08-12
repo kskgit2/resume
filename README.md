@@ -13,3 +13,4 @@ LastUpdated: *2021/08/12*
 |python|趣味程度|スクレイピング||
 |ruby|趣味程度|webアプリ開発|rails|
 |html/css|累計8年程度|WEBサイト、WEBアプリ開発||
+
