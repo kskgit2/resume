@@ -5,7 +5,7 @@ LastUpdated: *2021/08/12*
 ## 使用言語など
 
 |lang(FWなど)|term|主な用途|
-|---|---|---|---|
+|---|---|---|
 |php|累計8年程度|WEBサイト、WEBアプリ開発|
 |php(WordPress)|累計8年程度|WEBシステム開発|
 |javascript|累計8年程度|WEBサイト、WEBアプリ開発|
