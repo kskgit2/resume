@@ -8,9 +8,11 @@ LastUpdated: *2021/08/12*
 |---|---|---|
 |php|累計8年程度|WEBサイト、WEBアプリ開発|
 |php(WordPress)|累計8年程度|WEBシステム開発|
-|javascript|累計8年程度|WEBサイト、WEBアプリ開発|
-|javascript(jQuery)|累計8年程度|WEBサイト、WEBアプリ開発|
-|javascript(Node.js-Electron)|累計5年程度|デスクトップアプリ開発|
+|JavaScript|累計8年程度|WEBサイト、WEBアプリ開発|
+|JavaScript(jQuery)|累計8年程度|WEBサイト、WEBアプリ開発|
+|JavaScript(Node.js-Electron)|累計5年程度|デスクトップアプリ開発|
+|JavaScript(Vue.js-Nuxt.js)|趣味程度|WEBアプリ制作|
+|JavaScript(React.js-Next.js)|趣味程度|WEBアプリ制作|
 |c#|累計2年程度|Windowsアプリ開発|
 |python|趣味程度|スクレイピング|
 |ruby(rails)|趣味程度|webアプリ開発|
