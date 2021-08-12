@@ -13,6 +13,7 @@ LastUpdated: *2021/08/12*
 |JavaScript(Node.js-Electron)|累計5年程度|デスクトップアプリ開発|
 |JavaScript(Vue.js-Nuxt.js)|趣味程度|WEBアプリ制作|
 |JavaScript(React.js-Next.js)|趣味程度|WEBアプリ制作|
+|JavaScript(Node.js)|趣味程度|スクレイピング|
 |c#|累計2年程度|Windowsアプリ開発|
 |python|趣味程度|スクレイピング|
 |ruby(rails)|趣味程度|webアプリ開発|
